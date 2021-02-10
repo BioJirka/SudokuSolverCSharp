@@ -1,0 +1,15 @@
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku_V2\Sudoku_V2\obj\Debug\Sudoku_V2.csprojResolveAssemblyReference.cache
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku_V2\Sudoku_V2\bin\Debug\Sudoku_V2.exe
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku_V2\Sudoku_V2\bin\Debug\Sudoku_V2.pdb
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku_V2\Sudoku_V2\obj\Debug\Sudoku_V2.exe
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku_V2\Sudoku_V2\obj\Debug\Sudoku_V2.pdb
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku\Sudoku_V2\bin\Debug\Sudoku_V2.exe
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku\Sudoku_V2\bin\Debug\Sudoku_V2.pdb
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku\Sudoku_V2\obj\Debug\Sudoku_V2.csprojResolveAssemblyReference.cache
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku\Sudoku_V2\obj\Debug\Sudoku_V2.exe
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku\Sudoku_V2\obj\Debug\Sudoku_V2.pdb
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku_2\Sudoku_V2\obj\Debug\Sudoku_V2.csprojResolveAssemblyReference.cache
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku_2\Sudoku_V2\obj\Debug\Sudoku_V2.exe
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku_2\Sudoku_V2\obj\Debug\Sudoku_V2.pdb
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku_2\Sudoku_V2\bin\Debug\Sudoku_V2.exe
+C:\Users\Jirka\Documents\SharpDevelop Projects\Sudoku_2\Sudoku_V2\bin\Debug\Sudoku_V2.pdb

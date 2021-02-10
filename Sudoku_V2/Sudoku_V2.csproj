@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{526D5C28-75E4-4489-9C3A-E81534A2BE05}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Sudoku_V2</RootNamespace>
+    <AssemblyName>Sudoku_V2</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="MainProgram.cs" />
+    <Compile Include="IResitel.cs" />
+    <Compile Include="NapisZadani.cs" />
+    <Compile Include="ResitelAntiJezdec.cs" />
+    <Compile Include="ResitelBasic.cs" />
+    <Compile Include="ResitelDiagonal.cs" />
+    <Compile Include="ResitelLicha.cs" />
+    <Compile Include="ResitelRegion.cs" />
+    <Compile Include="ResitelKdeJe9.cs" />
+    <Compile Include="ResitelNerovnost.cs" />
+    <Compile Include="ResitelPevnost.cs" />
+    <Compile Include="ResitelRimska.cs" />
+    <Compile Include="ResitelRozdil.cs" />
+    <Compile Include="ResitelSousledna.cs" />
+    <Compile Include="ResitelSuda.cs" />
+    <Compile Include="ResitelSudoku.cs" />
+    <Compile Include="ResitelTeplomer.cs" />
+    <Compile Include="ResitelWindoku.cs" />
+    <Compile Include="SudokuClass.cs" />
+    <Compile Include="SudokuSubClass.cs" />
+    <Compile Include="Uloha.cs" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

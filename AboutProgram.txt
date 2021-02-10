@@ -1,0 +1,5 @@
+Program Sudoku Solver:
+- jedná se o program, který dokáže vyluštit zadané sudoku a to nejen standardní,
+  ale i specializované typy
+- použitá databáze a typy pochází z MAÈR (Mistrovství Akademikù ÈR) z roku 2020
+- odkaz na úlohy: http://sudokualogika.cz/sites/default/files/macr2020_PB.pdf
